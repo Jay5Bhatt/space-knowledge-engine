@@ -1,0 +1,7 @@
+Discovery of Water Vapor on Exoplanet K2-18b
+
+The exoplanet K2-18b, located 124 light-years away, was observed using the Hubble Space Telescope. 
+Spectral analysis revealed signatures consistent with water vapor in its atmosphere. 
+The planet has a radius of approximately 2.6 times that of Earth and an orbital period of 33 days. 
+Transit spectroscopy was conducted over 8 separate observations. 
+This discovery strengthens the possibility of habitable conditions on certain Hycean-class worlds.
